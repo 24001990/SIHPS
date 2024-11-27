@@ -20,6 +20,7 @@ An Alumni Association platform is a digital platform that connects alumni with t
 ## Proposed Solution / Architecture Diagram
 ![WhatsApp Image 2024-11-27 at 9 09 56 PM](https://github.com/user-attachments/assets/60fa4e9b-59a9-4b33-9f80-ccb502ce88b4)
 A typical architecture for such a platform would involve:
+
   1.Frontend: A user-friendly web interface built using technologies like React, Angular, or Veu.js.
   2.Backend:A robust backend seerver handling dta storage,user authentication,and API endpoints.This can be built using Node.js,Python(Django or Flask),or Ruby on Rails.
   3.Database: A database to store user information,event details,job postings,and other relevant data. Popular choice include postgreSQL,MySQL,or MongoDB.
